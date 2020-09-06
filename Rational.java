@@ -1,4 +1,4 @@
 public class Rational {
-    private final int numerator;
-    private final int denominator;
+    private final int numerator = 0;
+    private final int denominator = 1;
 }
